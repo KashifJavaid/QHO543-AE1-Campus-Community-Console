@@ -4,7 +4,7 @@
 **Module Code:** QHO543  
 **Module Leader:** Serif Salem  
 **Assessment:** AE1 – Group Project (Console-Based Application)  
-**Group Repository URL:** `https://github.com/solent-qho543-group/campus-community-management-ae1` (Local Git repository with full `main`, `memberA`, `memberB`, `memberC` branches included in project ZIP)  
+**Group Repository URL:** `https://github.com/KashifJavaid/QHO543-AE1-Campus-Community-Console`  
 **Group Members:**
 - **Group Member A (Group Leader):** Student Event Functionality (Tasks 1–3)
 - **Group Member B:** Community Event Management – Admin (Tasks 4–6)
@@ -186,3 +186,4 @@ Below is the actual Git branch graph and commit history from our repository (`gi
 |/  
 * 275eb05 Stage I: Add project build setup, initial class list, and UML class diagram
 ```
+

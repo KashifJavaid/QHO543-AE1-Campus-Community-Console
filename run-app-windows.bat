@@ -5,3 +5,4 @@ echo   Launching QHO543 AE1 Console Application on Windows...
 echo ====================================================================
 call "%~dp0gradlew.bat" run --console=plain -q
 pause
+

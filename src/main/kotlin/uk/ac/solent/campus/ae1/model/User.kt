@@ -59,3 +59,4 @@ class Administrator(
 
     override fun toString(): String = displaySummary()
 }
+

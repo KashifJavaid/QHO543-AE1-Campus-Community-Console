@@ -102,3 +102,4 @@ classDiagram
     SeededDataStore "1" *-- "*" CommunityEvent : manages
     SeededDataStore "1" *-- "*" Reservation : manages
 ```
+

@@ -151,3 +151,4 @@ class AdminEventService(private val dataStore: SeededDataStore) {
         return Result.success(Pair(event, affectedReservationsCount))
     }
 }
+

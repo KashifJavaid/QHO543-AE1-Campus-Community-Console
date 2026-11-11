@@ -101,3 +101,4 @@ class MemberCConsoleMenu(
         println(authAndAnalyticsService.formatAnalyticsReport())
     }
 }
+

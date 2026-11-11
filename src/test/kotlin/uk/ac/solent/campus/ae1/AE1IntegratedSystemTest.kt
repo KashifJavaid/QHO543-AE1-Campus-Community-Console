@@ -238,3 +238,4 @@ class AE1IntegratedSystemTest {
         assertEquals(2, summary.reservationsAffectedByEventCancellations)
     }
 }
+

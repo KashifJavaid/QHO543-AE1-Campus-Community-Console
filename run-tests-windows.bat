@@ -7,3 +7,4 @@ call "%~dp0gradlew.bat" test --info
 echo.
 echo HTML Test Report generated at: build\reports\tests\test\index.html
 pause
+
